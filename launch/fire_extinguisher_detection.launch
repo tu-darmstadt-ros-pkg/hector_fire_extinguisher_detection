@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<launch>
+
+
+  <!-- load the controllers -->
+  <node name="hector_fire_extinguisher_detection_node" pkg="hector_fire_extinguisher_detection" type="hector_fire_extinguisher_detection_node" respawn="true" output="screen">
+
+    
+
+  </node>
+
+
+
+
+   
+
+
+ 
+
+</launch>
